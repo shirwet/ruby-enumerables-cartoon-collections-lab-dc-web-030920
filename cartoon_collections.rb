@@ -17,7 +17,8 @@ end
 
 def find_the_cheese(snakes)
   
+  
  cheese_types = ["cheddar", "gouda", "camembert"]
-  if i.include? (cheese_types)
+  cheese_types.include? (item)
   
 end
