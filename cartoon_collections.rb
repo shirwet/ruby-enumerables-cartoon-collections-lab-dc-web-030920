@@ -15,7 +15,7 @@ def long_planeteer_calls(calls)
    call.length > 4}
 end
 
-def find_the_cheese(no_cheese)
+def find_the_cheese(snakes)
   
  cheese_types = ["cheddar", "gouda", "camembert"]
   if i.include? (cheese_types)
