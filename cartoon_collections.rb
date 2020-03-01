@@ -18,6 +18,7 @@ end
 def find_the_cheese(snakes)
   
  cheese_types = ["cheddar", "gouda", "camembert"]
+ snakes 
   cheese_types.include? (item)
   
 end
